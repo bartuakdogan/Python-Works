@@ -1,0 +1,1 @@
+print(10//3) # // (tam bölen):10 sayısı 3 e bölünür ve tam kısmı alınır.
